@@ -6,7 +6,7 @@
 	"image": "mcr.microsoft.com/devcontainers/base:alpine-3.19",
 	"features": {
 		"ghcr.io/cirolosapio/devcontainers-features/alpine-gh-cli:0": {},
-		"ghcr.io/cirolosapio/devcontainers-features/sshd:1": {
+		"ghcr.io/devcontainers/features/sshd:1": {
 			"version": "latest"
 		}
 	}
